@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.4.33110.190
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Rabota_2_Chat", "Rabota_3_Chat\Rabota_2_Chat.csproj", "{045C676A-6A98-4146-8370-F23BB4FD10EB}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{045C676A-6A98-4146-8370-F23BB4FD10EB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{045C676A-6A98-4146-8370-F23BB4FD10EB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{045C676A-6A98-4146-8370-F23BB4FD10EB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{045C676A-6A98-4146-8370-F23BB4FD10EB}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {9ACA5DB2-D9C2-4967-A6F6-BC0591DD1B0C}
+	EndGlobalSection
+EndGlobal
